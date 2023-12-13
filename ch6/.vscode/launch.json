@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch airline",
+            "request": "launch",
+            "mainClass": "airline",
+            "projectName": "ch6_c3abd4f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch diceRolling",
+            "request": "launch",
+            "mainClass": "diceRolling",
+            "projectName": "ch6_c3abd4f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch variableArgs",
+            "request": "launch",
+            "mainClass": "variableArgs",
+            "projectName": "ch6_c3abd4f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicateElimination",
+            "request": "launch",
+            "mainClass": "duplicateElimination",
+            "projectName": "ch6_c3abd4f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch pixelQuantisation",
+            "request": "launch",
+            "mainClass": "ch6.pixelQuantisation",
+            "projectName": "ch6_c3abd4f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayManipulations",
+            "request": "launch",
+            "mainClass": "arrayManipulations",
+            "projectName": "ch6_c3abd4f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
